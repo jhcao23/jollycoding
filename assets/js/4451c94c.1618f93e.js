@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_docusaurus_project=self.webpackChunkmy_docusaurus_project||[]).push([[290],{934:o=>{o.exports=JSON.parse('{"permalink":"/my-docusaurus-project/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
